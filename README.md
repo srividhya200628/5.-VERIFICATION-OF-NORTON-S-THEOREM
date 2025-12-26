@@ -115,8 +115,11 @@ Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
 
  <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/26d1f83f-aacf-4200-a3cd-344cfcb71e29" />
 
+**MARKS SPLIT-UP**
+
+<img width="806" height="508" alt="image" src="https://github.com/user-attachments/assets/875675d8-6ddb-4e27-8fce-2aed5e84aa3c" />
 
 
 **RESULT:**
 
-Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
+Thus,Norton’s theorem is verified practically and theoretically.
